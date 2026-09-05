@@ -23,6 +23,10 @@ Whatever gets merged.
 
 There is no roadmap and no requirement that the repository continue serving its current purpose. A pull request may add a tiny feature, replace the architecture, turn the project into something else, or make a decision nobody asked for.
 
+## Current seed
+
+Right now, the repository contains a minimal SwiftUI iPhone sideload test app. It is only a seed, not a product direction. Replace it, extend it, or turn it into something unrelated.
+
 Maintainer review is **moderation, not quality control**.
 
 We do not reject a pull request because it is:
